@@ -42,6 +42,13 @@ On our custom dataset, the proposed method demonstrates cutting-edge performance
 
 ![Figure 10](https://github.com/km-adarsh/Human-Action-Recognition-Using-Deep-Learning/assets/65649644/78507dec-b51d-4322-9b7a-31a87f43a248)
 
+## Contributors
+
+Nagesh U B (Assistant Professor)
+Abhishek V Doddagoudra, Adarsh K M, Mayoori K Bhat, Shreya L (UG Students)
+Department of Information Science and Engineering - 2023
+Alva’s Institute of Engineering and Technology, Mangalore, India
+
 
 Feel free to experiment, contribute, and adapt the code to suit your specific needs.
 
