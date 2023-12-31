@@ -4,7 +4,7 @@
 
 ## Overview
 
-Human Activity Recognition aims to recognize human actions from videos, decode stance and movement information using Mediapipe, and categorize actions using LSTM.
+**Human Activity Recognition** aims to recognize human actions from videos, decode stance and movement information using **Mediapipe**, and categorize actions using **LSTM**.
 
 ## Methodology
 
