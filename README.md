@@ -1,5 +1,6 @@
 # Human-Action-Recognition-Using-Deep-Learning
-![image](https://github.com/km-adarsh/Human-Action-Recognition-Using-Deep-Learning/assets/65649644/451f6b85-2d7b-4140-897f-3aa1da8df27d =250x250)
+![Picture11](https://github.com/km-adarsh/Human-Action-Recognition-Using-Deep-Learning/assets/65649644/4be12708-d3c1-452e-b6a7-ac6f9987f87f)
+
 
 
 ## Overview
