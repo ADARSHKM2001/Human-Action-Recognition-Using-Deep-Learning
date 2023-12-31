@@ -41,7 +41,8 @@ Each sequence consists of 30 frames extracted from three videos per action, pres
 
 On our custom dataset, the proposed method demonstrates cutting-edge performance with a maximum accuracy of 96.3%. Comprehensive tests were conducted to evaluate the model's robustness in scenarios like changing lighting conditions, shifting camera angles, and occlusion.
 
-![Figure 10](https://github.com/km-adarsh/Human-Action-Recognition-Using-Deep-Learning/assets/65649644/4523b1b4-7625-413c-a00d-98f8c5e37955)
+![Figure 101](https://github.com/km-adarsh/Human-Action-Recognition-Using-Deep-Learning/assets/65649644/993f2f4b-d89d-438b-82fa-1444225d1d42)
+
 
 
 
