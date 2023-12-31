@@ -44,9 +44,9 @@ On our custom dataset, the proposed method demonstrates cutting-edge performance
 
 ## Contributors
 
-Nagesh U B (Assistant Professor)
-Abhishek V Doddagoudra, Adarsh K M, Mayoori K Bhat, Shreya L (UG Students)
-Department of Information Science and Engineering - 2023
+Nagesh U B (Assistant Professor)  
+Abhishek V Doddagoudra, Adarsh K M, Mayoori K Bhat, Shreya L (UG Students)  
+Department of Information Science and Engineering - 2023  
 Alva’s Institute of Engineering and Technology, Mangalore, India
 
 
