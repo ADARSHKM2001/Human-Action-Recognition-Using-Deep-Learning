@@ -1,4 +1,5 @@
 # Human-Action-Recognition-Using-Deep-Learning
+![image](https://github.com/km-adarsh/Human-Action-Recognition-Using-Deep-Learning/assets/65649644/451f6b85-2d7b-4140-897f-3aa1da8df27d)
 
 
 ## Overview
@@ -39,6 +40,7 @@ Each sequence consists of 30 frames extracted from three videos per action, pres
 
 On our custom dataset, the proposed method demonstrates cutting-edge performance with a maximum accuracy of 96.3%. Comprehensive tests were conducted to evaluate the model's robustness in scenarios like changing lighting conditions, shifting camera angles, and occlusion.
 
+![Figure 10](https://github.com/km-adarsh/Human-Action-Recognition-Using-Deep-Learning/assets/65649644/78507dec-b51d-4322-9b7a-31a87f43a248)
 
 
 Feel free to experiment, contribute, and adapt the code to suit your specific needs.
